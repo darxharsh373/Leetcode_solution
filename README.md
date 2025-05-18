@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/darxharsh373/Leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/darxharsh373/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/darxharsh373/Leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/darxharsh373/Leetcode_solution/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/darxharsh373/Leetcode_solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/darxharsh373/Leetcode_solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/darxharsh373/Leetcode_solution/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/darxharsh373/Leetcode_solution/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/darxharsh373/Leetcode_solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
